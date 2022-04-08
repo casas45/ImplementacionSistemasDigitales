@@ -2,5 +2,5 @@
 
 ## Integrantes del equipo
 
-- Edwin Daniel Peralta Jijón
+- Edwing Daniel Peralta Jijón
 - Luis David Casas Hernandez
